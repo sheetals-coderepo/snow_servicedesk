@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Case" max_length="40" name="x_264406_it_servic_case" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element choice="3" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Software" sequence="100" value="software"/>
+                <element inactive_on_update="false" label="Hardware" sequence="200" value="hardware"/>
+                <element inactive_on_update="false" label="Network" sequence="300" value="network"/>
+                <element inactive_on_update="false" label="Inquiry" sequence="400" value="inquiry"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="100" value="high"/>
+                <element inactive_on_update="false" label="Medium" sequence="200" value="medium"/>
+                <element inactive_on_update="false" label="Low" sequence="300" value="low"/>
+            </choice>
+        </element>
+        <element label="Short Description" mandatory="true" max_length="40" name="short_description" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="100" value="new"/>
+                <element inactive_on_update="false" label="In Progress" sequence="200" value="in_progress"/>
+                <element inactive_on_update="false" label="Resolved" sequence="300" value="resolved"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

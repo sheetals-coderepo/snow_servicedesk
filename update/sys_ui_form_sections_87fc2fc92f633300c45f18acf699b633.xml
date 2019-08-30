@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="87fc2fc92f633300c45f18acf699b633" sys_domain="global" table="x_264406_it_servic_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 10:16:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03fc2fc92f633300c45f18acf699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_264406_it_servic_case" name="x_264406_it_servic_case" sys_domain="global" view="Default view">87fc2fc92f633300c45f18acf699b633</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_264406_it_servic_case" sys_domain="global" view="Default view">b15032342fe33300c45f18acf699b6d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 10:16:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 10:16:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43fcab0d2f633300c45f18acf699b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_264406_it_servic_case" name="x_264406_it_servic_case" sys_domain="global" view="Default view">87fc2fc92f633300c45f18acf699b633</sys_ui_form>
+            <sys_ui_section caption="User View" display_value="User View" name="x_264406_it_servic_case" sys_domain="global" view="Default view">cffcab0d2f633300c45f18acf699b6ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 10:16:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_264406_it_servic_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 10:16:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87fc2fc92f633300c45f18acf699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_264406_it_servic_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Service Desk" source="x_264406_it_servic">633196342f633300c45f18acf699b631</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Service Desk">633196342f633300c45f18acf699b631</sys_scope>
+            <sys_update_name>sys_ui_form_sections_87fc2fc92f633300c45f18acf699b633</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 10:16:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

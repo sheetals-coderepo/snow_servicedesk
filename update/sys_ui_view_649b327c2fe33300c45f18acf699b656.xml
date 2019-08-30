@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>agent_view</name>
+        <roles>x_264406_it_servic.service_desk_agent</roles>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-26 12:02:01</sys_created_on>
+        <sys_id>649b327c2fe33300c45f18acf699b656</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Agent View</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_264406_it_servic">633196342f633300c45f18acf699b631</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">633196342f633300c45f18acf699b631</sys_scope>
+        <sys_update_name>sys_ui_view_649b327c2fe33300c45f18acf699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 12:20:23</sys_updated_on>
+        <title>Agent View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
