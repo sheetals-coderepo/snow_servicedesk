@@ -14,20 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-08-27 10:16:24</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-27 10:16:24</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>43fcab0d2f633300c45f18acf699b6b0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_264406_it_servic_case" name="x_264406_it_servic_case" sys_domain="global" view="Default view">87fc2fc92f633300c45f18acf699b633</sys_ui_form>
-            <sys_ui_section caption="User View" display_value="User View" name="x_264406_it_servic_case" sys_domain="global" view="Default view">cffcab0d2f633300c45f18acf699b6ae</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-27 10:16:24</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_264406_it_servic_case</name>
             <roles/>

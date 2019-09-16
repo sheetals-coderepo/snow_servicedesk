@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="CaseCredentials">b54a3f4a2fa33300c45f18acf699b658</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>Case Target</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://dev78646.service-now.com/api/now/table/x_264406_it_servic_case</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-30 13:52:13</sys_created_on>
+        <sys_id>800abbc62fa33300c45f18acf699b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Target</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_264406_it_servic">633196342f633300c45f18acf699b631</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">633196342f633300c45f18acf699b631</sys_scope>
+        <sys_update_name>sys_rest_message_800abbc62fa33300c45f18acf699b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-30 13:52:13</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
